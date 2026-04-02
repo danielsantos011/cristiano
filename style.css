@@ -27,6 +27,10 @@ body{
     .banner p {
         margin-top: 30px;
     }
+
+    .banner a{
+        margin-top: 20px
+    }
     
     .botao{
     background:#a87f4d;
